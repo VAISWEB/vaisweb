@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../piotr/.idea/piotr.iml" filepath="$PROJECT_DIR$/../piotr/.idea/piotr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../retrospect/.idea/retrospect.iml" filepath="$PROJECT_DIR$/../retrospect/.idea/retrospect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../simple-line-icons-master/.idea/simple-line-icons-master.iml" filepath="$PROJECT_DIR$/../simple-line-icons-master/.idea/simple-line-icons-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../startbootstrap-creative-gh-pages/.idea/startbootstrap-creative-gh-pages.iml" filepath="$PROJECT_DIR$/../startbootstrap-creative-gh-pages/.idea/startbootstrap-creative-gh-pages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/startbootstrap-stylish-portfolio-gh-pages.iml" filepath="$PROJECT_DIR$/.idea/startbootstrap-stylish-portfolio-gh-pages.iml" />
+    </modules>
+  </component>
+</project>
