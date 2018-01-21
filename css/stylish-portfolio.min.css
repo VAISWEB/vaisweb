@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6{font-weight:700}
 @media (min-width:992px){.masthead{height:100vh}
 .masthead h1{font-size:5.5rem}
 }
-#sidebar-wrapper{position:fixed;z-index:2;right:0;width:250px;height:100%;-webkit-transition:all .4s ease 0s;-moz-transition:all .4s ease 0s;-ms-transition:all .4s ease 0s;-o-transition:all .4s ease 0s;transition:all .4s ease 0s;transform:translateX(250px);background:#1d809f;border-left:1px solid rgba(255, 255, 255, .1)}
+#sidebar-wrapper{position:fixed;z-index:2;right:0;width:250px;height:100%;-webkit-transition:all .4s ease 0s;-moz-transition:all .4s ease 0s;-ms-transition:all .4s ease 0s;-o-transition:all .4s ease 0s;transition:all .4s ease 0s;transform:translateX(250px);background:#212529;border-left:1px solid rgba(255, 255, 255, .1)}
 .sidebar-nav{position:absolute;top:0;width:250px;margin:0;padding:0;list-style:none}
 .sidebar-nav li.sidebar-nav-item a{display:block;text-decoration:none;color:#fff;padding:15px}
 .sidebar-nav li a:hover{text-decoration:none;color:#fff;background:rgba(255, 255, 255, .2)}
