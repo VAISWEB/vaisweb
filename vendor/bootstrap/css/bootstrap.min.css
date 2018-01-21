@@ -9172,7 +9172,7 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
         font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif
     }
 .form-group{
-    width:35%;
+    width:75%;
     margin:0 auto;
 }
     textarea {
