@@ -9180,8 +9180,64 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 
 
     }
-	
+
 	#tittle2{
 		margin:0 auto;
 	}
-
+  .price_example {
+      width: 33.33333333%;
+      float: left;
+    }
+.pricing_example{
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px
+}
+#pricing .pricing-column {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background: #ffffff;
+    text-align: center;
+    border: 1px solid #e0e0e0;
+}
+#pricing .pricing-column .pricing-features {
+    padding: 25px 20px 20px 20px;
+}
+.custom-list {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+ul, dir {
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+#pricing .pricing-column .btn {
+    margin-bottom: 30px;
+}
+.btn.btn-blue {
+    background: #007aff;
+    color: #ffffff;
+}
+.btn.btn-blue {
+    padding: 11px 30px;
+    text-transform: uppercase;
+    font-size: 13px;
+    display: inline-block;
+    border-radius: 3px;
+    font-family: "Montserrat", sans-serif;
+}
+#pricing .pricing-column {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background: #ffffff;
+    text-align: center;
+    border: 1px solid #e0e0e0;
+}
