@@ -9184,10 +9184,13 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 	#tittle2{
 		margin:0 auto;
 	}
-  .price_example {
-      width: 33.33333333%;
-      float: left;
-    }
+  @media (min-width: 992px) {
+    .price_example {
+        width: 33.33333333%;
+        float: left;
+      }
+  }
+
 .pricing_example{
   position: relative;
   width: 100%;
@@ -9240,4 +9243,9 @@ ul, dir {
     background: #ffffff;
     text-align: center;
     border: 1px solid #e0e0e0;
+}
+@media (min-width: 992px) {
+  .pricing_example{
+    float: left;
+  }
 }
