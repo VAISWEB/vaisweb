@@ -5245,6 +5245,7 @@ button.close {
     z-index: 1060;
     display: block;
     max-width: 276px;
+
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     font-style: normal;
     font-weight: 400;
@@ -8489,18 +8490,7 @@ a.text-dark:focus, a.text-dark:hover {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
 }
-.title2{
-  text-align: center;
-  margin-bottom: 80px;
-  float: left;
-  position: relative;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
 
-
-
-}
 #pricing {
     position: relative;
     padding: 80px 0 80px 0;
@@ -8512,6 +8502,14 @@ a.text-dark:focus, a.text-dark:hover {
         padding-right: 15px;
 
 }
+ .title2 {
+     text-align: center;
+     margin-bottom: 80px;
+     position: relative;
+     min-height: 1px;
+     padding-left: 15px;
+     padding-right: 15px;
+ }
 .title2 h3 {
     margin: 0 0 20px 0;
     font-size: 28px;
@@ -9181,8 +9179,9 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 
     }
 
-	#tittle2{
+	#title2{
 		margin:0 auto;
+
 	}
   @media (min-width: 992px) {
     .price_example {
